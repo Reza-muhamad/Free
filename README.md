@@ -11,9 +11,9 @@
  pip install stdiomask
  pip install bs4
  pip install rich
- git clone https://github.com/Reza-muhamad/recode
- cd recode
- python recode.py
+ git clone https://github.com/Reza-muhamad/Premium
+ cd Premium
+ python Premium.py
 ```
 
 # BUY LISENSI 
