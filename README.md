@@ -1,4 +1,4 @@
-# PREMIUM
+# Free
 
 #### Instalasi Tools
 ``` bash
@@ -11,18 +11,15 @@
  pip install stdiomask
  pip install bs4
  pip install rich
- git clone https://github.com/Reza-muhamad/Premium
- cd Premium
- python Premium.py
+ git clone https://github.com/Reza-muhamad/Free
+ cd Free
+ python Free.py
 ```
-
-# BUY LISENSI 
-• [CHAT](https://wa.me/+6283837168442)
 # TQ JANGAN LUPA FOLOW AND STAR 🌟💖
 
 # New Update Metod Ada 2
 • m.facebook.com
-• free.facebook.com
+• x.facebook.com
 
 <!---
 Rezastore/Rezastore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
